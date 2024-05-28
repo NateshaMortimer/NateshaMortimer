@@ -10,4 +10,4 @@
 - 🍍 Fun fact: I'm growing 30+ species of edible plants in my garden
 
 
-[![Natesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NateshaMortimer)](https://github.com/NateshaMortimer/github-readme-stats)
+[![Natesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=NateshaMortimer)](https://github.com/anuraghazra/github-readme-stats)
