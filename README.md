@@ -1,4 +1,4 @@
-# 💫 Hey, I'm Natesha!
+# 💫 Hey,  I'm Natesha!
 💻 Data Scientist and Analytics nerd sharing my tech journey<br>🎒 Studying Computational Data Analytics / Data Science, MS @ Georgia Insitute of Technology<br>💰 Studied Finance, BS @ University of Central Florida<br>🏢 I’m currently learning how to strategically solve business problems with data analytics using Lean Six Sigma<br>🍍 Fun fact: I'm growing 30+ species of edible plants in my garden
 
 
